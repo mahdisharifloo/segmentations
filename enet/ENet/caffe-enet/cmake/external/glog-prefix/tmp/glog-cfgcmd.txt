@@ -1,0 +1,1 @@
+cmd='env;CFLAGS=-fPIC;CXXFLAGS=-fPIC;/home/mahdi/projects/dgkala/enet/ENet/caffe-enet/cmake/external/glog-prefix/src/glog/configure;--prefix=/home/mahdi/projects/dgkala/enet/ENet/caffe-enet/cmake/external/glog-install;--enable-shared=no;--enable-static=yes;--with-gflags=/home/mahdi/projects/dgkala/enet/ENet/caffe-enet/cmake/external/gflags-install/lib/..'
